@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\game2ue.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\game2ue.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\game2ueEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\game2ue">
+      <UniqueIdentifier>{01619DD1-CC6B-36B3-BD1E-B7C084AF241A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\game2ue\game2ue.Build.cs">
+      <Filter>Source\game2ue</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\game2ue\game2ue.cpp">
+      <Filter>Source\game2ue</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\game2ue\game2ue.h">
+      <Filter>Source\game2ue</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\game2ue\PlaceholderActor.cpp">
+      <Filter>Source\game2ue</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\game2ue\PlaceholderActor.h">
+      <Filter>Source\game2ue</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

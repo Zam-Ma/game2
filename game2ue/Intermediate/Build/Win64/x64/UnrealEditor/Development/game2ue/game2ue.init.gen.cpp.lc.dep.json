@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\_programowanie\\game2\\game2ue\\intermediate\\build\\win64\\unrealeditor\\inc\\game2ue\\uht\\game2ue.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\_programowanie\\game2\\game2ue\\intermediate\\build\\win64\\x64\\game2ueeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\_programowanie\\game2\\game2ue\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game2ue\\definitions.game2ue.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
