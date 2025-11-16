@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/_Programowanie/game2/game2ue/Content/Levels/Menus/Menu.umap"
+				"E:/_Programowanie/game2/game2ue/Content/Levels/Menus/Menu.umap",
+				"E:/_Programowanie/game2/game2ue/Content/Levels/Prototypes/FirstLevelPrototype.umap",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk1.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/FB_PlayerWalk1.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Blueprints/Core/BP_SpriteCharacter.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_0.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_1.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_2.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_3.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_4.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_5.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_6.uasset",
+				"E:/_Programowanie/game2/game2ue/Content/Art/Characters/Julia/JuliaWalk_Sprite_7.uasset"
 			]
 		}
 	]
