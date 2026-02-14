@@ -24,4 +24,3 @@ void APlaceholderActor::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 }
-
